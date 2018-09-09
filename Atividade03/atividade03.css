@@ -1,0 +1,17 @@
+body{
+    background-image: url(Wiki-background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100%;
+    
+}
+
+#st{
+    
+    width: 400px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
