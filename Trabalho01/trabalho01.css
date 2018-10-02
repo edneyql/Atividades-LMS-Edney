@@ -40,7 +40,7 @@ body{
 }
 
 .nav-superior ul ul{
-    /* position: absolute; */
+    position: absolute;
     display: none;
     overflow: hidden;
     max-height: 0;
@@ -156,6 +156,10 @@ body{
         width: 100vw;
         float: none; 
         display: block;   
+    }
+
+    .nav-superior ul ul{
+        position: relative;
     }
 
     .lateral{
