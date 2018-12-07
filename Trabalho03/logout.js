@@ -6,5 +6,5 @@ $("#logout").click(function(){
       height: "440px"
     });
 
-    window.location.href = "index.html";
+    window.location.href = "trabalho03.html";
 });
